@@ -1,0 +1,102 @@
+[
+  {
+    "id": "anecdotes_tarot",
+    "name": "Anecdotes Tarot",
+    "description": "Anecdotes Tarot is a 78-card deck inspired by the music of Joanna Newsom created by Yve Lepkowski.",
+    "cardAmount": 78,
+    "ratio": [11,15],
+    "credits": "Yve Lepkowski, https://stolen-thyme.com/. Their work is licensed under Creative Commons Attribution-ShareAlike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "suits": ["Trumps",  "Cups", "Swords","Batons", "Coins"],
+    "link":["1u1cZbXIebf8LXhTp8nuyYakRhVhA0k8y","1P2kzJuKftElXUVDRvdi9Czkt5McKZZrA"]
+  },
+  {
+    "id": "arcana_of_the_light_tarot",
+    "name": "Arcana of The Light Tarot",
+    "description": "Arcana of The Light (aotl for short) is a collaboration between over 70 artists to create a digital sky-themed tarot deck.",
+    "cardAmount": 78,
+    "ratio": [3,5],
+    "credits": "AOTL project from 70 artists, https://skytarot.carrd.co/",
+    "suits": ["Major", "Cups", "Swords", "Wands", "Pentacles"],
+    "link":["1-mXFGDma9TCmD9HacQ8rZki1PgTasRZN","1c-U3GqMIMB01JjOZz7sr2AfkGuMIb8GW"]
+  },
+  {
+    "id": "arlecchinos_augmented_arcana_tarot",
+    "name": "Arlecchino's Augmented Arcana Tarot",
+    "description": "Arlecchino’s Augmented Arcana Tarot (based on the Tarocco Bolognese) dedicated to the mischievous Arlecchino, a.k.a Harlequin, a.k.a. Erl-King. To complete the project, the cards include divinatory meanings based on the Etteilla system.",
+    "cardAmount": 78,
+    "ratio": [3,5],
+    "credits": "Yve Lepkowski, https://stolen-thyme.com/. Their work is licensed under Creative Commons Attribution-ShareAlike 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).",
+    "suits": ["Trumps", "Cups", "Swords", "Batons", "Coins"],
+    "link":["1i_TE-GKbm-o7NuLHboT0fShccgeW0jGC","131yAfMcsFTLLPCb7UDPd5FyNtr1dcmHP"]
+  },
+  {
+    "id": "cbd_tarot_de_marseille",
+    "name": "CBD Tarot de Marseille",
+    "description": "This Marseille deck is a faithful reproduction of the traditional tarot cards created by the esteemed Nicholas Conver in 1760.",
+    "cardAmount": 78,
+    "ratio": [7,14],
+    "credits": "Yoav Ben-Dov, https://cbdtarot.com/",
+    "suits": ["Trumps", "Coupes", "Épées", "Bâtons", "Deniers"],
+    "link":["1j81ZSq5NFDUq0iA6x_p6N93JSsNiJG5A","1CHR8E2-kZ668I2Z_7Doe3eADZPh9Ttfz"]
+  },
+  {
+    "id": "clown_town_tarot",
+    "name": "Clown Town Tarot",
+    "description": "Clown Town Tarot is a colorful deck full of clowns.",
+    "cardAmount": 78,
+    "ratio": [3,4],
+    "credits": "Created by Yve Lepkowski.",
+    "suits": ["Trumps",  "Cups", "Swords","Batons", "Coins"],
+    "link":["1ByU54P9uT72ZraJMSw6CNIezqfjOLbLu","1rL_FLZIjRXZPaW7vUZsRQUaskCQLuYRH"]
+  },
+  {
+    "id": "cult_of_the_lamb_tarot",
+    "name": "Cult of The Lamb Tarot",
+    "description": "Deck of the Lamb is a multi-artist collaborative zine, focused on the creation of a full major and minor arcana tarot deck with characters and oc's from Cult of the Lamb.",
+    "cardAmount": 78,
+    "ratio": [7,12],
+    "credits":"COTL Tarot card zine, https://www.tumblr.com/lambdeck",
+    "suits": ["Major", "Cups", "Swords", "Wands", "Pentacles"],
+    "link":["1Ez6qiNMKZEWkTGJxvWwOYD_1oO_GgOBE","19au8WFC-ri6reQuPDqgRgDvdb6DL5s5F"]
+  },
+  {
+    "id": "etteillas_livre_de_thot_tarot",
+    "name": "Etteilla's Livre de Thot Tarot",
+    "description": "Etteilla's Livre de Thot Tarot is one of the first Tarot decks created for divination, released by Jean-Baptiste Alliette (Etteilla) in the late 18th century. This 78-card deck is based on the idea of ancient Egyptian Tarot and has a different arrangement and meanings compared to traditional Tarot decks, emphasizing the prediction of the future.",
+    "cardAmount": 78,
+    "ratio": [1,2],
+    "credits":"The Public Domain Review, https://publicdomainreview.org/collection/etteilla-thot/",
+    "suits": ["Trumps", "Coupes", "Épées", "Bâtons", "Deniers"],
+    "link":["18UKZBEBSjg57QuvQpkrHSAV11lrdkIAN","1QTVER0K2TxKUqaetqTlL6h9gNohccMDS"]
+  },
+  {
+    "id": "hermit_arcana_tarot",
+    "name": "Hermit Arcana Tarot",
+    "description": "The Hermit Arcana is a fanmade Hermitcraft tarot card project.",
+    "cardAmount": 78,
+    "ratio": [3,5],
+    "credits":"The Hermit Arcana, https://the-hermit-arcana.itch.io/hermit-arcana",
+    "suits": ["Major", "Cups", "Swords", "Wands", "Pentacles"],
+    "link":["1d2dttOLCFhoKAWVbpY3ArCe3Hg8j014-","1fZA_8a50CusTzYW56vz11VOgYyMojcnq"]
+  },
+  {
+    "id": "law_under_love_tarot",
+    "name": "Law Under Love Tarot",
+    "description": "Illustrated 79-card tarot deck, including the 22 cards of the Major Arcana, the 56 cards of the Minor Arcana.",
+    "cardAmount": 78,
+    "ratio": [7,10],
+    "credits": "Joe Sparrow, http://joe-sparrow.com/",
+    "suits": ["Major", "Cups", "Swords", "Batons", "Coins"],
+    "link":["1IWKkBO7WfjMEqytrCS8qMYXVq63fBwzy","1Gki0fmKkOh83jt1QVuwAzuVS18Re2Fj4"]
+  },
+  {
+    "id": "off_tarot",
+    "name": "OFF Tarot",
+    "description": "A fan-illustrated, 78-card tarot deck themed after the video game OFF by Mortis Ghost.",
+    "cardAmount": 78,
+    "ratio": [11,19],
+    "credits": "OFF Tarot Project, https://offtarotfaq.carrd.co/",
+    "suits": ["Major", "Cups", "Swords", "Wands", "Pentacles"],
+    "link": ["1aeXwcKYIvVKOHmBfcty9K-2fJz6icAxu","1AMIcJ3KoWVqdbHr-b_XpuQeT0CPY53Xk"]
+  }
+]

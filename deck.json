@@ -98,5 +98,15 @@
     "credits": "OFF Tarot Project, https://offtarotfaq.carrd.co/",
     "suits": ["Major", "Cups", "Swords", "Wands", "Pentacles"],
     "link": ["1aeXwcKYIvVKOHmBfcty9K-2fJz6icAxu","1AMIcJ3KoWVqdbHr-b_XpuQeT0CPY53Xk"]
+  },
+  {
+    "id": "pixel_tarot",
+    "name": "Pixel Tarot",
+    "description": "The pixel tarot deck includes every card in the tarot deck, major arcana and all four suits of minor arcana. Everything is drawn in a classic 16-bit pixel artstyle.",
+    "cardAmount": 78,
+    "ratio": [3,5],
+    "credits":"Jason Perry, https://finalbossblues.com/",
+    "suits": ["Majors", "Cups", "Swords", "Wands", "Pentacles"],
+    "link":["1pPQJwKqTYvOTsSMZCbgD_H2QXB9tJBg9","17_9aukpFXbGYIf7mCog7VOvdJzG8L1ww"]
   }
 ]

@@ -70,16 +70,6 @@
     "link":["18UKZBEBSjg57QuvQpkrHSAV11lrdkIAN","1QTVER0K2TxKUqaetqTlL6h9gNohccMDS"]
   },
   {
-    "id": "hermit_arcana_tarot",
-    "name": "Hermit Arcana Tarot",
-    "description": "The Hermit Arcana is a fanmade Hermitcraft tarot card project.",
-    "cardAmount": 78,
-    "ratio": [3,5],
-    "credits":"The Hermit Arcana, https://the-hermit-arcana.itch.io/hermit-arcana",
-    "suits": ["Major", "Cups", "Swords", "Wands", "Pentacles"],
-    "link":["1d2dttOLCFhoKAWVbpY3ArCe3Hg8j014-","1fZA_8a50CusTzYW56vz11VOgYyMojcnq"]
-  },
-  {
     "id": "law_under_love_tarot",
     "name": "Law Under Love Tarot",
     "description": "Illustrated 79-card tarot deck, including the 22 cards of the Major Arcana, the 56 cards of the Minor Arcana.",
@@ -108,5 +98,15 @@
     "credits":"Jason Perry, https://finalbossblues.com/",
     "suits": ["Majors", "Cups", "Swords", "Wands", "Pentacles"],
     "link":["1pPQJwKqTYvOTsSMZCbgD_H2QXB9tJBg9","17_9aukpFXbGYIf7mCog7VOvdJzG8L1ww"]
+  },
+  {
+    "id": "the_hermit_arcana_tarot",
+    "name": "Hermit Arcana Tarot",
+    "description": "The Hermit Arcana is a fanmade Hermitcraft tarot card project.",
+    "cardAmount": 78,
+    "ratio": [3,5],
+    "credits":"The Hermit Arcana, https://the-hermit-arcana.itch.io/hermit-arcana",
+    "suits": ["Major", "Cups", "Swords", "Wands", "Pentacles"],
+    "link":["1d2dttOLCFhoKAWVbpY3ArCe3Hg8j014-","1fZA_8a50CusTzYW56vz11VOgYyMojcnq"]
   }
 ]

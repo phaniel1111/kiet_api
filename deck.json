@@ -20,6 +20,28 @@
     "link":["1-mXFGDma9TCmD9HacQ8rZki1PgTasRZN","1c-U3GqMIMB01JjOZz7sr2AfkGuMIb8GW"]
   },
   {
+  "id": "black_white_tarot",
+  "name": "Black White Tarot",
+  "description": "Black White Tarot.",
+  "cardAmount": 78,
+  "ratio": [
+    3,
+    5
+  ],
+  "credits": "",
+  "suits": [
+    "Major",
+    "Cups",
+    "Swords",
+    "Wands",
+    "Pentacles"
+  ],
+  "link": [
+    "1GX7pwnk3LYrRM7m7UcOLsu1dMzDIjOf2",
+    "1PAzW5yPZsGCj9OClMY78umYvhgt5u-R2"
+  ]
+  },
+  {
     "id": "arlecchinos_augmented_arcana_tarot",
     "name": "Arlecchino's Augmented Arcana Tarot",
     "description": "Arlecchino’s Augmented Arcana Tarot (based on the Tarocco Bolognese) dedicated to the mischievous Arlecchino, a.k.a Harlequin, a.k.a. Erl-King. To complete the project, the cards include divinatory meanings based on the Etteilla system.",

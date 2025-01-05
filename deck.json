@@ -102,6 +102,28 @@
     "link":["1IWKkBO7WfjMEqytrCS8qMYXVq63fBwzy","1Gki0fmKkOh83jt1QVuwAzuVS18Re2Fj4"]
   },
   {
+  "id": "minimalist_tarot",
+  "name": "Minimalist Tarot",
+  "description": "Minimalist Tarot.",
+  "cardAmount": 78,
+  "ratio": [
+    11,
+    19
+  ],
+  "credits": "",
+  "suits": [
+    "Majors",
+    "Cups",
+    "Swords",
+    "Wands",
+    "Pentacles"
+  ],
+  "link": [
+    "1vLLcp4PKkJi7OabZo1yc9Fc4qV5Wohn3",
+    "1oldv6eWSV_WV7W2-hvS6lBj4fDDJjzsr"
+  ]
+},
+  {
     "id": "off_tarot",
     "name": "OFF Tarot",
     "description": "A fan-illustrated, 78-card tarot deck themed after the video game OFF by Mortis Ghost.",
